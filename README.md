@@ -1,6 +1,6 @@
 # git-home
 
-[![github pages](https://github.com/VickyGuo0907/git-home/actions/workflows/gh-pages.yml/badge.svg?branch=main&event=status)](https://github.com/VickyGuo0907/git-home/actions/workflows/gh-pages.yml)
+[![pages-build-deployment](https://github.com/VickyGuo0907/git-home/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/VickyGuo0907/git-home/actions/workflows/pages/pages-build-deployment)
 
 This is my GitHub Home page.
 
